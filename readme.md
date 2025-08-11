@@ -51,7 +51,7 @@ diabetes_svm/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-repo/diabetes_svm.git
+git clone https://github.com/nithinskumar866/SVM_model.git
 cd diabetes_svm
 ```
 
